@@ -1,0 +1,2201 @@
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-27 10:34:41
+============================================================
+
+📋 RAW POST DATA:
+  • checkin = "2025-12-27"
+  • checkout = "2025-12-28"
+  • villa_type = "edelweiss"
+  • full_name = "howenn"
+  • phone = "2222222222"
+  • email = "tes@gm"
+  • special_request = "tes"
+
+📁 FILES UPLOADED:
+  • identity_photo: Screenshot 2025-09-01 114326.png | Size: 579257 bytes | Type: image/png | Error: 0
+  • payment_proof: Screenshot 2025-09-24 073343.png | Size: 370445 bytes | Type: image/png | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryDXKK5Bq78nzmlxmo
+  • Content-Length: 950809
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B20251227103441927
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: Screenshot 2025-09-01 114326.png
+  New name: B20251227103441927_IDENTITY_Screenshot_2025-09-01_114326.png
+  Size: 579257 bytes
+  Type: image/png
+  ✅ Saved locally: uploads/2025/12/B20251227103441927_IDENTITY_Screenshot_2025-09-01_114326.png
+  ✅ File verified, size: 579257 bytes
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: Screenshot 2025-09-24 073343.png
+  New name: B20251227103441927_PAYMENT_Screenshot_2025-09-24_073343.png
+  Size: 370445 bytes
+  Type: image/png
+  ✅ Saved locally: uploads/2025/12/B20251227103441927_PAYMENT_Screenshot_2025-09-24_073343.png
+  ✅ File verified, size: 370445 bytes
+
+📤 DATA TO SEND TO GOOGLE SHEETS:
+  • timestamp: "2025-12-27 10:34:41"
+  • booking_id: "B20251227103441927"
+  • full_name: "howenn"
+  • phone: "2222222222"
+  • email: "tes@gm"
+  • checkin: "2025-12-27"
+  • checkout: "2025-12-28"
+  • villa_type: "edelweiss"
+  • identity_filename: "B20251227103441927_IDENTITY_Screenshot_2025-09-01_114326.png"
+  • payment_filename: "B20251227103441927_PAYMENT_Screenshot_2025-09-24_073343.png"
+  • special_request: "tes"
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+=== SENDING TO GOOGLE SHEETS ===
+Attempt 1: Sending as JSON
+JSON length: 388 bytes
+  HTTP Code: 200
+  cURL Error: none
+  Response: {"success":true,"message":"✅ Data saved to 'Bookings' sheet!","villa_type_saved":"","row":19,"booking_id":"","sheet_name":"Bookings","timestamp":"2025-12-27T09:34:43.330Z"}...
+
+✅ Google Sheets saved successfully!
+  • Row: 19
+  • Message: ✅ Data saved to 'Bookings' sheet!
+
+=== UPLOADING TO GOOGLE DRIVE ===
+Drive URL: https://script.google.com/macros/s/AKfycbwyL3V-rnFPMDWhVTBQ95InQOvcfhOjtufDwbiH1hzt619eukHpsrB1bdth-iKOOcsH/exec
+  • Identity file prepared: B20251227103441927_IDENTITY_Screenshot_2025-09-01_114326.png (579257 bytes)
+  • Payment file prepared: B20251227103441927_PAYMENT_Screenshot_2025-09-24_073343.png (370445 bytes)
+  • JSON size for Drive: 1288945 bytes
+  • Drive HTTP Code: 200
+  • Drive cURL Error: none
+  • Drive Response: {"success":true,"message":"✅ File upload completed","booking_id":"B20251227103441927","uploads":{"identity":{"success":true,"file_id":"1EBo3WXfvicsYd6q8WQ_GSsS4gotRHgrj","file_name":"B20251227103441927_IDENTITY_1766828088613.png","file_size":579257,"file_url":"https://drive.google.com/file/d/1EBo3...
+  ✅ Drive upload successful!
+
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+  • Booking ID: B20251227103441927
+  • Sheets saved: Yes
+  • Files uploaded to Drive: Yes
+  • Local files saved: Yes
+
+
+------------------------------------------------------------
+
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-27 10:41:43
+============================================================
+
+📋 RAW POST DATA:
+  • checkin = "2025-12-27"
+  • checkout = "2025-12-28"
+  • villa_type = "tulip"
+  • full_name = "lasttest"
+  • phone = "08123456789"
+  • email = "tes@gm"
+  • special_request = "tess"
+
+📁 FILES UPLOADED:
+  • identity_photo: Screenshot 2025-09-01 114326.png | Size: 579257 bytes | Type: image/png | Error: 0
+  • payment_proof: Screenshot 2025-09-01 114326.png | Size: 579257 bytes | Type: image/png | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryAVjKjFvYoraABqym
+  • Content-Length: 1159621
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B20251227104143457
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: Screenshot 2025-09-01 114326.png
+  New name: B20251227104143457_IDENTITY_Screenshot_2025-09-01_114326.png
+  Size: 579257 bytes
+  Type: image/png
+  ✅ Saved locally: uploads/2025/12/B20251227104143457_IDENTITY_Screenshot_2025-09-01_114326.png
+  ✅ File verified, size: 579257 bytes
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: Screenshot 2025-09-01 114326.png
+  New name: B20251227104143457_PAYMENT_Screenshot_2025-09-01_114326.png
+  Size: 579257 bytes
+  Type: image/png
+  ✅ Saved locally: uploads/2025/12/B20251227104143457_PAYMENT_Screenshot_2025-09-01_114326.png
+  ✅ File verified, size: 579257 bytes
+
+📤 DATA TO SEND TO GOOGLE SHEETS:
+  • timestamp: "2025-12-27 10:41:43"
+  • booking_id: "B20251227104143457"
+  • full_name: "lasttest"
+  • phone: "08123456789"
+  • email: "tes@gm"
+  • checkin: "2025-12-27"
+  • checkout: "2025-12-28"
+  • villa_type: "tulip"
+  • identity_filename: "B20251227104143457_IDENTITY_Screenshot_2025-09-01_114326.png"
+  • payment_filename: "B20251227104143457_PAYMENT_Screenshot_2025-09-01_114326.png"
+  • special_request: "tess"
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+=== SENDING TO GOOGLE SHEETS ===
+Attempt 1: Sending as JSON
+JSON length: 388 bytes
+  HTTP Code: 200
+  cURL Error: none
+  Response: {"success":true,"message":"✅ Data saved to 'Bookings' sheet!","villa_type_saved":"","row":22,"booking_id":"","sheet_name":"Bookings","timestamp":"2025-12-27T09:41:45.555Z"}...
+
+✅ Google Sheets saved successfully!
+  • Row: 22
+  • Message: ✅ Data saved to 'Bookings' sheet!
+
+=== UPLOADING TO GOOGLE DRIVE ===
+Drive URL: https://script.google.com/macros/s/AKfycbwyL3V-rnFPMDWhVTBQ95InQOvcfhOjtufDwbiH1hzt619eukHpsrB1bdth-iKOOcsH/exec
+  • Identity file prepared: B20251227104143457_IDENTITY_Screenshot_2025-09-01_114326.png (579257 bytes)
+  • Payment file prepared: B20251227104143457_PAYMENT_Screenshot_2025-09-01_114326.png (579257 bytes)
+  • JSON size for Drive: 1572143 bytes
+  • Drive HTTP Code: 200
+  • Drive cURL Error: none
+  • Drive Response: {"success":true,"message":"✅ File upload completed","booking_id":"B20251227104143457","uploads":{"identity":{"success":true,"file_id":"1qt9yj2kqK1sJ0JF6mIOBjHe4g9cTkt1n","file_name":"B20251227104143457_IDENTITY_1766828510501.png","file_size":579257,"file_url":"https://drive.google.com/file/d/1qt9y...
+  ✅ Drive upload successful!
+
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+  • Booking ID: B20251227104143457
+  • Sheets saved: Yes
+  • Files uploaded to Drive: Yes
+  • Local files saved: Yes
+
+
+------------------------------------------------------------
+
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-27 10:53:08
+============================================================
+
+📋 RAW POST DATA:
+  • checkin = "2025-12-27"
+  • checkout = "2025-12-28"
+  • villa_type = "tulip"
+  • full_name = "safsa"
+  • phone = "2222222222"
+  • email = "seanhowengaming@gmail.com"
+  • special_request = "vfff"
+
+📁 FILES UPLOADED:
+  • identity_photo: villa1.jpg | Size: 3002829 bytes | Type: image/jpeg | Error: 0
+  • payment_proof: tes.png | Size: 579257 bytes | Type: image/png | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryGvIAMumB1VuqoVHw
+  • Content-Length: 3583162
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B20251227105308442
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: villa1.jpg
+  New name: B20251227105308442_IDENTITY_villa1.jpg
+  Size: 3002829 bytes
+  Type: image/jpeg
+  ✅ Saved locally: uploads/2025/12/B20251227105308442_IDENTITY_villa1.jpg
+  ✅ File verified, size: 3002829 bytes
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: tes.png
+  New name: B20251227105308442_PAYMENT_tes.png
+  Size: 579257 bytes
+  Type: image/png
+  ✅ Saved locally: uploads/2025/12/B20251227105308442_PAYMENT_tes.png
+  ✅ File verified, size: 579257 bytes
+
+📤 DATA TO SEND TO GOOGLE SHEETS:
+  • timestamp: "2025-12-27 10:53:08"
+  • booking_id: "B20251227105308442"
+  • full_name: "safsa"
+  • phone: "2222222222"
+  • email: "seanhowengaming@gmail.com"
+  • checkin: "2025-12-27"
+  • checkout: "2025-12-28"
+  • villa_type: "tulip"
+  • identity_filename: "B20251227105308442_IDENTITY_villa1.jpg"
+  • payment_filename: "B20251227105308442_PAYMENT_tes.png"
+  • special_request: "vfff"
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+=== SENDING TO GOOGLE SHEETS ===
+Attempt 1: Sending as JSON
+JSON length: 356 bytes
+  HTTP Code: 200
+  cURL Error: none
+  Response: {"success":true,"message":"✅ Data saved to 'Bookings' sheet!","villa_type_saved":"","row":25,"booking_id":"","sheet_name":"Bookings","timestamp":"2025-12-27T09:53:10.402Z"}...
+
+✅ Google Sheets saved successfully!
+  • Row: 25
+  • Message: ✅ Data saved to 'Bookings' sheet!
+
+=== UPLOADING TO GOOGLE DRIVE ===
+Drive URL: https://script.google.com/macros/s/AKfycbwyL3V-rnFPMDWhVTBQ95InQOvcfhOjtufDwbiH1hzt619eukHpsrB1bdth-iKOOcsH/exec
+  • Identity file prepared: B20251227105308442_IDENTITY_villa1.jpg (3002829 bytes)
+  • Payment file prepared: B20251227105308442_PAYMENT_tes.png (579257 bytes)
+  • JSON size for Drive: 4841847 bytes
+  • Drive HTTP Code: 200
+  • Drive cURL Error: none
+  • Drive Response: {"success":true,"message":"✅ File upload completed","booking_id":"B20251227105308442","uploads":{"identity":{"success":true,"file_id":"1KgdHEKdvngTeHBRWHh30fHHJwpmf0MV0","file_name":"B20251227105308442_IDENTITY_1766829199607.jpg","file_size":3002829,"file_url":"https://drive.google.com/file/d/1Kgd...
+  ✅ Drive upload successful!
+
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+  • Booking ID: B20251227105308442
+  • Sheets saved: Yes
+  • Files uploaded to Drive: Yes
+  • Local files saved: Yes
+
+
+------------------------------------------------------------
+
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-27 11:06:10
+============================================================
+
+📋 RAW POST DATA:
+  • checkin = "2025-12-27"
+  • checkout = "2025-12-28"
+  • villa_type = "tulip"
+  • full_name = "Seanjowennnnn"
+  • phone = "081999259938"
+  • email = "asdaesda@gmail.com"
+  • special_request = "rgr"
+
+📁 FILES UPLOADED:
+  • identity_photo: Screenshot 2025-07-17 211810.png | Size: 27813 bytes | Type: image/png | Error: 0
+  • payment_proof: Screenshot 2025-08-02 071749.png | Size: 835160 bytes | Type: image/png | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundary9Vcl0BkJxpZVAXJm
+  • Content-Length: 864097
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B20251227110610269
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: Screenshot 2025-07-17 211810.png
+  New name: B20251227110610269_IDENTITY_Screenshot_2025-07-17_211810.png
+  Size: 27813 bytes
+  Type: image/png
+  ✅ Saved locally: uploads/2025/12/B20251227110610269_IDENTITY_Screenshot_2025-07-17_211810.png
+  ✅ File verified, size: 27813 bytes
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: Screenshot 2025-08-02 071749.png
+  New name: B20251227110610269_PAYMENT_Screenshot_2025-08-02_071749.png
+  Size: 835160 bytes
+  Type: image/png
+  ✅ Saved locally: uploads/2025/12/B20251227110610269_PAYMENT_Screenshot_2025-08-02_071749.png
+  ✅ File verified, size: 835160 bytes
+
+📤 DATA TO SEND TO GOOGLE SHEETS:
+  • timestamp: "2025-12-27 11:06:10"
+  • booking_id: "B20251227110610269"
+  • full_name: "Seanjowennnnn"
+  • phone: "081999259938"
+  • email: "asdaesda@gmail.com"
+  • checkin: "2025-12-27"
+  • checkout: "2025-12-28"
+  • villa_type: "tulip"
+  • identity_filename: "B20251227110610269_IDENTITY_Screenshot_2025-07-17_211810.png"
+  • payment_filename: "B20251227110610269_PAYMENT_Screenshot_2025-08-02_071749.png"
+  • special_request: "rgr"
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+=== SENDING TO GOOGLE SHEETS ===
+Attempt 1: Sending as JSON
+JSON length: 405 bytes
+  HTTP Code: 200
+  cURL Error: none
+  Response: {"success":true,"message":"✅ Data saved to 'Bookings' sheet!","villa_type_saved":"","row":26,"booking_id":"","sheet_name":"Bookings","timestamp":"2025-12-27T10:06:14.431Z"}...
+
+✅ Google Sheets saved successfully!
+  • Row: 26
+  • Message: ✅ Data saved to 'Bookings' sheet!
+
+=== UPLOADING TO GOOGLE DRIVE ===
+Drive URL: https://script.google.com/macros/s/AKfycbwyL3V-rnFPMDWhVTBQ95InQOvcfhOjtufDwbiH1hzt619eukHpsrB1bdth-iKOOcsH/exec
+  • Identity file prepared: B20251227110610269_IDENTITY_Screenshot_2025-07-17_211810.png (27813 bytes)
+  • Payment file prepared: B20251227110610269_PAYMENT_Screenshot_2025-08-02_071749.png (835160 bytes)
+  • JSON size for Drive: 1171612 bytes
+  • Drive HTTP Code: 200
+  • Drive cURL Error: none
+  • Drive Response: {"success":true,"message":"✅ File upload completed","booking_id":"B20251227110610269","uploads":{"identity":{"success":true,"file_id":"1Hj2Jrm_6xo-NA0DP1vR7625I0RL5nkBg","file_name":"B20251227110610269_IDENTITY_1766829978315.png","file_size":27813,"file_url":"https://drive.google.com/file/d/1Hj2Jr...
+  ✅ Drive upload successful!
+
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+  • Booking ID: B20251227110610269
+  • Sheets saved: Yes
+  • Files uploaded to Drive: Yes
+  • Local files saved: Yes
+
+
+------------------------------------------------------------
+
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-27 11:23:27
+============================================================
+
+🌐 REQUEST HEADERS:
+  • Host: localhost
+  • Connection: keep-alive
+  • Content-Length: 56760
+  • sec-ch-ua-platform: "Windows"
+  • User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+  • sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+  • DNT: 1
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundarykUFOD9vwj0NR5zB2
+  • sec-ch-ua-mobile: ?0
+  • Accept: */*
+  • Origin: http://localhost
+  • Sec-Fetch-Site: same-origin
+  • Sec-Fetch-Mode: cors
+  • Sec-Fetch-Dest: empty
+  • Referer: http://localhost/Aone%20trawas/
+  • Accept-Encoding: gzip, deflate, br, zstd
+  • Accept-Language: en-ID,en;q=0.9,id-ID;q=0.8,id;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+📋 RAW POST DATA:
+  • checkin = "2025-12-27"
+  • checkout = "2025-12-28"
+  • villa_type = "tulip"
+  • full_name = "Tatik Wijayanti"
+  • phone = "081999259938"
+  • email = "yehezkialsean@gmail.com"
+  • special_request = "345678"
+
+📁 FILES UPLOADED:
+  • identity_photo: Screenshot 2025-07-17 211810.png | Size: 27813 bytes | Type: image/png | Error: 0
+  • payment_proof: Screenshot 2025-07-17 211810.png | Size: 27813 bytes | Type: image/png | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundarykUFOD9vwj0NR5zB2
+  • Content-Length: 56760
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B20251227112327749
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: Screenshot 2025-07-17 211810.png
+  New name: B20251227112327749_IDENTITY_Screenshot_2025-07-17_211810.png
+  ✅ Saved locally: uploads/2025/12/B20251227112327749_IDENTITY_Screenshot_2025-07-17_211810.png
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: Screenshot 2025-07-17 211810.png
+  New name: B20251227112327749_PAYMENT_Screenshot_2025-07-17_211810.png
+  ✅ Saved locally: uploads/2025/12/B20251227112327749_PAYMENT_Screenshot_2025-07-17_211810.png
+
+============================================================
+📤 PREPARING DATA FOR GOOGLE SHEETS
+============================================================
+  • timestamp: "2025-12-27 11:23:27"
+  • booking_id: "B20251227112327749"
+  • full_name: "Tatik Wijayanti"
+  • phone: "081999259938"
+  • email: "yehezkialsean@gmail.com"
+  • checkin: "2025-12-27"
+  • checkout: "2025-12-28"
+  • villa_type: "tulip"
+  • identity_file: "B20251227112327749_IDENTITY_Screenshot_2025-07-17_211810.png"
+  • payment_file: "B20251227112327749_PAYMENT_Screenshot_2025-07-17_211810.png"
+  • special_request: "345678"
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+
+============================================================
+🚀 ATTEMPTING TO SEND TO GOOGLE SHEETS
+============================================================
+📤 SENDING TO GOOGLE SHEETS...
+📦 Data size: 367 bytes
+📦 Data sample: timestamp=2025-12-27+11%3A23%3A27&booking_id=B20251227112327749&full_name=Tatik+Wijayanti&phone=081999259938&email=yehezkialsean%40gmail.com&checkin=2025-12-27&checkout=2025-12-28&villa_type=tulip&ide
+📡 HTTP Response Code: 200
+📡 cURL Error: none
+📡 Response Length: 197 bytes
+📡 Response: {&quot;success&quot;:true,&quot;message&quot;:&quot;✅ Data saved to &#039;Bookings&#039; sheet!&quot;,&quot;villa_type_saved&quot;:&quot;tulip&quot;,&quot;row&quot;:27,&quot;booking_id&quot;:&quot;B20251227112327749&quot;,&quot;sheet_name&quot;:&quot;Bookings&quot;,&quot;timestamp&quot;:&quot;2025-12-27T10:23:29.872Z&quot;}
+
+✅ GOOGLE SHEETS SUCCESS!
+   • Message: ✅ Data saved to 'Bookings' sheet!
+   • Row: 27
+
+============================================================
+☁️  UPLOADING TO GOOGLE DRIVE
+============================================================
+  • Identity file prepared: B20251227112327749_IDENTITY_Screenshot_2025-07-17_211810.png (27813 bytes)
+  • Payment file prepared: B20251227112327749_PAYMENT_Screenshot_2025-07-17_211810.png (27813 bytes)
+  • Drive HTTP Code: 200
+  ✅ Drive upload successful!
+
+============================================================
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+============================================================
+  • Booking ID: B20251227112327749
+  • Sheets Status: Success
+  • Files Uploaded: Yes
+
+
+------------------------------------------------------------
+
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-27 11:28:15
+============================================================
+
+🌐 REQUEST HEADERS:
+  • Host: localhost
+  • Connection: keep-alive
+  • Content-Length: 224472
+  • sec-ch-ua-platform: "Windows"
+  • User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+  • sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+  • DNT: 1
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryuqdwZB5RzNTFAWoA
+  • sec-ch-ua-mobile: ?0
+  • Accept: */*
+  • Origin: http://localhost
+  • Sec-Fetch-Site: same-origin
+  • Sec-Fetch-Mode: cors
+  • Sec-Fetch-Dest: empty
+  • Referer: http://localhost/Aone%20trawas/
+  • Accept-Encoding: gzip, deflate, br, zstd
+  • Accept-Language: en-ID,en;q=0.9,id-ID;q=0.8,id;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+📋 RAW POST DATA:
+  • checkin = "2025-12-27"
+  • checkout = "2025-12-28"
+  • villa_type = "tulip"
+  • full_name = "Tatik Wijayanti"
+  • phone = "081999259938"
+  • email = "yehezkialsean@gmail.com"
+  • special_request = "tes"
+
+📁 FILES UPLOADED:
+  • identity_photo: Screenshot 2025-07-22 205826.png | Size: 142220 bytes | Type: image/png | Error: 0
+  • payment_proof: Screenshot 2025-07-31 205408.png | Size: 81121 bytes | Type: image/png | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryuqdwZB5RzNTFAWoA
+  • Content-Length: 224472
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B20251227112815876
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: Screenshot 2025-07-22 205826.png
+  New name: B20251227112815876_IDENTITY_Screenshot_2025-07-22_205826.png
+  ✅ Saved locally: uploads/2025/12/B20251227112815876_IDENTITY_Screenshot_2025-07-22_205826.png
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: Screenshot 2025-07-31 205408.png
+  New name: B20251227112815876_PAYMENT_Screenshot_2025-07-31_205408.png
+  ✅ Saved locally: uploads/2025/12/B20251227112815876_PAYMENT_Screenshot_2025-07-31_205408.png
+
+============================================================
+📤 PREPARING DATA FOR GOOGLE SHEETS
+============================================================
+  • timestamp: "2025-12-27 11:28:15"
+  • booking_id: "B20251227112815876"
+  • full_name: "Tatik Wijayanti"
+  • phone: "081999259938"
+  • email: "yehezkialsean@gmail.com"
+  • checkin: "2025-12-27"
+  • checkout: "2025-12-28"
+  • villa_type: "tulip"
+  • identity_file: "B20251227112815876_IDENTITY_Screenshot_2025-07-22_205826.png"
+  • payment_file: "B20251227112815876_PAYMENT_Screenshot_2025-07-31_205408.png"
+  • special_request: "tes"
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+
+============================================================
+🚀 ATTEMPTING TO SEND TO GOOGLE SHEETS
+============================================================
+📤 SENDING TO GOOGLE SHEETS...
+📦 Data size: 364 bytes
+📦 Data sample: timestamp=2025-12-27+11%3A28%3A15&booking_id=B20251227112815876&full_name=Tatik+Wijayanti&phone=081999259938&email=yehezkialsean%40gmail.com&checkin=2025-12-27&checkout=2025-12-28&villa_type=tulip&ide
+📡 HTTP Response Code: 200
+📡 cURL Error: none
+📡 Response Length: 196 bytes
+📡 Response: {&quot;success&quot;:true,&quot;message&quot;:&quot;✅ Data saved to &#039;Bookings&#039; sheet!&quot;,&quot;villa_type_saved&quot;:&quot;tulip&quot;,&quot;row&quot;:3,&quot;booking_id&quot;:&quot;B20251227112815876&quot;,&quot;sheet_name&quot;:&quot;Bookings&quot;,&quot;timestamp&quot;:&quot;2025-12-27T10:28:17.485Z&quot;}
+
+✅ GOOGLE SHEETS SUCCESS!
+   • Message: ✅ Data saved to 'Bookings' sheet!
+   • Row: 3
+
+============================================================
+☁️  UPLOADING TO GOOGLE DRIVE
+============================================================
+  • Identity file prepared: B20251227112815876_IDENTITY_Screenshot_2025-07-22_205826.png (142220 bytes)
+  • Payment file prepared: B20251227112815876_PAYMENT_Screenshot_2025-07-31_205408.png (81121 bytes)
+  • Drive HTTP Code: 200
+  ✅ Drive upload successful!
+
+============================================================
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+============================================================
+  • Booking ID: B20251227112815876
+  • Sheets Status: Success
+  • Files Uploaded: Yes
+
+
+------------------------------------------------------------
+
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-27 12:25:41
+============================================================
+
+🌐 REQUEST HEADERS:
+  • Host: localhost
+  • Connection: keep-alive
+  • Content-Length: 171393
+  • sec-ch-ua-platform: "Windows"
+  • User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+  • sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+  • DNT: 1
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryBA4gPTmiZLVAkmrZ
+  • sec-ch-ua-mobile: ?0
+  • Accept: */*
+  • Origin: http://localhost
+  • Sec-Fetch-Site: same-origin
+  • Sec-Fetch-Mode: cors
+  • Sec-Fetch-Dest: empty
+  • Referer: http://localhost/Aone%20trawas/
+  • Accept-Encoding: gzip, deflate, br, zstd
+  • Accept-Language: en-ID,en;q=0.9,id-ID;q=0.8,id;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+📋 RAW POST DATA:
+  • checkin = "2025-12-28"
+  • checkout = "2025-12-29"
+  • villa_type = "tulip"
+  • full_name = "Tatik Wijayanti"
+  • phone = "081999259938"
+  • email = "yehezkialsean@gmail.com"
+  • special_request = "sbxfn"
+  • booking_id = "B2512271825816"
+  • timestamp = "27/12/2025, 18.25.41"
+
+📁 FILES UPLOADED:
+  • identity_photo: Screenshot 2025-07-17 211810.png | Size: 27813 bytes | Type: image/png | Error: 0
+  • payment_proof: Screenshot 2025-07-22 205826.png | Size: 142220 bytes | Type: image/png | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryBA4gPTmiZLVAkmrZ
+  • Content-Length: 171393
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B2512271825816
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: Screenshot 2025-07-17 211810.png
+  New name: B2512271825816_IDENTITY_Screenshot_2025-07-17_211810.png
+  ✅ Saved locally: uploads/2025/12/B2512271825816_IDENTITY_Screenshot_2025-07-17_211810.png
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: Screenshot 2025-07-22 205826.png
+  New name: B2512271825816_PAYMENT_Screenshot_2025-07-22_205826.png
+  ✅ Saved locally: uploads/2025/12/B2512271825816_PAYMENT_Screenshot_2025-07-22_205826.png
+
+============================================================
+📤 PREPARING DATA FOR GOOGLE SHEETS
+============================================================
+  • timestamp: "2025-12-27 12:25:41"
+  • booking_id: "B2512271825816"
+  • full_name: "Tatik Wijayanti"
+  • phone: "081999259938"
+  • email: "yehezkialsean@gmail.com"
+  • checkin: "2025-12-28"
+  • checkout: "2025-12-29"
+  • villa_type: "tulip"
+  • identity_file: "B2512271825816_IDENTITY_Screenshot_2025-07-17_211810.png"
+  • payment_file: "B2512271825816_PAYMENT_Screenshot_2025-07-22_205826.png"
+  • special_request: "sbxfn"
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+
+============================================================
+🚀 ATTEMPTING TO SEND TO GOOGLE SHEETS
+============================================================
+📤 SENDING TO GOOGLE SHEETS...
+📦 Data size: 354 bytes
+📦 Data sample: timestamp=2025-12-27+12%3A25%3A41&booking_id=B2512271825816&full_name=Tatik+Wijayanti&phone=081999259938&email=yehezkialsean%40gmail.com&checkin=2025-12-28&checkout=2025-12-29&villa_type=tulip&identit
+📡 HTTP Response Code: 200
+📡 cURL Error: none
+📡 Response Length: 192 bytes
+📡 Response: {&quot;success&quot;:true,&quot;message&quot;:&quot;✅ Data saved to &#039;Bookings&#039; sheet!&quot;,&quot;villa_type_saved&quot;:&quot;tulip&quot;,&quot;row&quot;:3,&quot;booking_id&quot;:&quot;B2512271825816&quot;,&quot;sheet_name&quot;:&quot;Bookings&quot;,&quot;timestamp&quot;:&quot;2025-12-27T11:25:43.821Z&quot;}
+
+✅ GOOGLE SHEETS SUCCESS!
+   • Message: ✅ Data saved to 'Bookings' sheet!
+   • Row: 3
+
+============================================================
+☁️  UPLOADING TO GOOGLE DRIVE
+============================================================
+  • Identity file prepared: B2512271825816_IDENTITY_Screenshot_2025-07-17_211810.png (27813 bytes)
+  • Payment file prepared: B2512271825816_PAYMENT_Screenshot_2025-07-22_205826.png (142220 bytes)
+  • Drive HTTP Code: 200
+  ✅ Drive upload successful!
+
+============================================================
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+============================================================
+  • Booking ID: B2512271825816
+  • Sheets Status: Success
+  • Files Uploaded: Yes
+
+
+------------------------------------------------------------
+
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-28 06:43:12
+============================================================
+
+🌐 REQUEST HEADERS:
+  • Host: localhost
+  • Connection: keep-alive
+  • Content-Length: 446340
+  • sec-ch-ua-platform: "Windows"
+  • User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+  • sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+  • DNT: 1
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryYszMrHGt9BBLZXfG
+  • sec-ch-ua-mobile: ?0
+  • Accept: */*
+  • Origin: http://localhost
+  • Sec-Fetch-Site: same-origin
+  • Sec-Fetch-Mode: cors
+  • Sec-Fetch-Dest: empty
+  • Referer: http://localhost/Aone%20trawas/
+  • Accept-Encoding: gzip, deflate, br, zstd
+  • Accept-Language: en-ID,en;q=0.9,id-ID;q=0.8,id;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+📋 RAW POST DATA:
+  • checkin = "2025-12-28"
+  • checkout = "2025-12-29"
+  • villa_type = "tulip"
+  • full_name = "Seanjowennnnn"
+  • phone = "7098765432"
+  • email = "asdaesda@gmail.com"
+  • special_request = "kyjf"
+  • booking_id = "B2512281243117"
+  • timestamp = "28/12/2025, 12.43.12"
+
+📁 FILES UPLOADED:
+  • identity_photo: pps 2.jpg | Size: 217420 bytes | Type: image/jpeg | Error: 0
+  • payment_proof: pps 1.jpg | Size: 227614 bytes | Type: image/jpeg | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryYszMrHGt9BBLZXfG
+  • Content-Length: 446340
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B2512281243117
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: pps 2.jpg
+  New name: B2512281243117_IDENTITY_pps_2.jpg
+  ✅ Saved locally: uploads/2025/12/B2512281243117_IDENTITY_pps_2.jpg
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: pps 1.jpg
+  New name: B2512281243117_PAYMENT_pps_1.jpg
+  ✅ Saved locally: uploads/2025/12/B2512281243117_PAYMENT_pps_1.jpg
+
+============================================================
+📤 PREPARING DATA FOR GOOGLE SHEETS
+============================================================
+  • timestamp: "2025-12-28 06:43:12"
+  • booking_id: "B2512281243117"
+  • full_name: "Seanjowennnnn"
+  • phone: "7098765432"
+  • email: "asdaesda@gmail.com"
+  • checkin: "2025-12-28"
+  • checkout: "2025-12-29"
+  • villa_type: "tulip"
+  • identity_file: "B2512281243117_IDENTITY_pps_2.jpg"
+  • payment_file: "B2512281243117_PAYMENT_pps_1.jpg"
+  • special_request: "kyjf"
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+
+============================================================
+🚀 ATTEMPTING TO SEND TO GOOGLE SHEETS
+============================================================
+📤 SENDING TO GOOGLE SHEETS...
+📦 Data size: 298 bytes
+📦 Data sample: timestamp=2025-12-28+06%3A43%3A12&booking_id=B2512281243117&full_name=Seanjowennnnn&phone=7098765432&email=asdaesda%40gmail.com&checkin=2025-12-28&checkout=2025-12-29&villa_type=tulip&identity_file=B2
+📡 HTTP Response Code: 200
+📡 cURL Error: none
+📡 Response Length: 192 bytes
+📡 Response: {&quot;success&quot;:true,&quot;message&quot;:&quot;✅ Data saved to &#039;Bookings&#039; sheet!&quot;,&quot;villa_type_saved&quot;:&quot;tulip&quot;,&quot;row&quot;:4,&quot;booking_id&quot;:&quot;B2512281243117&quot;,&quot;sheet_name&quot;:&quot;Bookings&quot;,&quot;timestamp&quot;:&quot;2025-12-28T05:43:14.970Z&quot;}
+
+✅ GOOGLE SHEETS SUCCESS!
+   • Message: ✅ Data saved to 'Bookings' sheet!
+   • Row: 4
+
+============================================================
+☁️  UPLOADING TO GOOGLE DRIVE
+============================================================
+  • Identity file prepared: B2512281243117_IDENTITY_pps_2.jpg (217420 bytes)
+  • Payment file prepared: B2512281243117_PAYMENT_pps_1.jpg (227614 bytes)
+  • Drive HTTP Code: 200
+  ✅ Drive upload successful!
+
+============================================================
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+============================================================
+  • Booking ID: B2512281243117
+  • Sheets Status: Success
+  • Files Uploaded: Yes
+
+
+------------------------------------------------------------
+
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-28 06:59:06
+============================================================
+
+🌐 REQUEST HEADERS:
+  • Host: localhost
+  • Connection: keep-alive
+  • Content-Length: 160989
+  • sec-ch-ua-platform: "Windows"
+  • User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+  • sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+  • DNT: 1
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryqYTfXAue6WtlERRB
+  • sec-ch-ua-mobile: ?0
+  • Accept: */*
+  • Origin: http://localhost
+  • Sec-Fetch-Site: same-origin
+  • Sec-Fetch-Mode: cors
+  • Sec-Fetch-Dest: empty
+  • Referer: http://localhost/Aone%20trawas/
+  • Accept-Encoding: gzip, deflate, br, zstd
+  • Accept-Language: en-ID,en;q=0.9,id-ID;q=0.8,id;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+📋 RAW POST DATA:
+  • checkin = "2025-12-30"
+  • checkout = "2025-12-31"
+  • villa_type = "edelweiss"
+  • full_name = "tes"
+  • phone = "08122000748"
+  • email = "tes@gm"
+  • special_request = "tees"
+  • booking_id = "B2512281259294"
+  • timestamp = "28/12/2025, 12.59.06"
+
+📁 FILES UPLOADED:
+  • identity_photo: Screenshot 2025-07-31 205509.png | Size: 79828 bytes | Type: image/png | Error: 0
+  • payment_proof: Screenshot 2025-07-31 205509.png | Size: 79828 bytes | Type: image/png | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryqYTfXAue6WtlERRB
+  • Content-Length: 160989
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B2512281259294
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: Screenshot 2025-07-31 205509.png
+  New name: B2512281259294_IDENTITY_Screenshot_2025-07-31_205509.png
+  ✅ Saved locally: uploads/2025/12/B2512281259294_IDENTITY_Screenshot_2025-07-31_205509.png
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: Screenshot 2025-07-31 205509.png
+  New name: B2512281259294_PAYMENT_Screenshot_2025-07-31_205509.png
+  ✅ Saved locally: uploads/2025/12/B2512281259294_PAYMENT_Screenshot_2025-07-31_205509.png
+
+============================================================
+📤 PREPARING DATA FOR GOOGLE SHEETS
+============================================================
+  • timestamp: "2025-12-28 06:59:06"
+  • booking_id: "B2512281259294"
+  • full_name: "tes"
+  • phone: "08122000748"
+  • email: "tes@gm"
+  • checkin: "2025-12-30"
+  • checkout: "2025-12-31"
+  • villa_type: "edelweiss"
+  • identity_file: "B2512281259294_IDENTITY_Screenshot_2025-07-31_205509.png"
+  • payment_file: "B2512281259294_PAYMENT_Screenshot_2025-07-31_205509.png"
+  • special_request: "tees"
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+
+============================================================
+🚀 ATTEMPTING TO SEND TO GOOGLE SHEETS
+============================================================
+📤 SENDING TO GOOGLE SHEETS...
+📦 Data size: 327 bytes
+📦 Data sample: timestamp=2025-12-28+06%3A59%3A06&booking_id=B2512281259294&full_name=tes&phone=08122000748&email=tes%40gm&checkin=2025-12-30&checkout=2025-12-31&villa_type=edelweiss&identity_file=B2512281259294_IDEN
+📡 HTTP Response Code: 200
+📡 cURL Error: none
+📡 Response Length: 196 bytes
+📡 Response: {&quot;success&quot;:true,&quot;message&quot;:&quot;✅ Data saved to &#039;Bookings&#039; sheet!&quot;,&quot;villa_type_saved&quot;:&quot;edelweiss&quot;,&quot;row&quot;:5,&quot;booking_id&quot;:&quot;B2512281259294&quot;,&quot;sheet_name&quot;:&quot;Bookings&quot;,&quot;timestamp&quot;:&quot;2025-12-28T05:59:07.563Z&quot;}
+
+✅ GOOGLE SHEETS SUCCESS!
+   • Message: ✅ Data saved to 'Bookings' sheet!
+   • Row: 5
+
+============================================================
+☁️  UPLOADING TO GOOGLE DRIVE
+============================================================
+  • Identity file prepared: B2512281259294_IDENTITY_Screenshot_2025-07-31_205509.png (79828 bytes)
+  • Payment file prepared: B2512281259294_PAYMENT_Screenshot_2025-07-31_205509.png (79828 bytes)
+  • Drive HTTP Code: 200
+  ✅ Drive upload successful!
+
+============================================================
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+============================================================
+  • Booking ID: B2512281259294
+  • Sheets Status: Success
+  • Files Uploaded: Yes
+
+
+------------------------------------------------------------
+
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-28 07:02:44
+============================================================
+
+🌐 REQUEST HEADERS:
+  • Host: localhost
+  • Connection: keep-alive
+  • Content-Length: 2447759
+  • sec-ch-ua-platform: "Windows"
+  • User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+  • sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+  • DNT: 1
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundary3B5BRWYBsYgaOUTV
+  • sec-ch-ua-mobile: ?0
+  • Accept: */*
+  • Origin: http://localhost
+  • Sec-Fetch-Site: same-origin
+  • Sec-Fetch-Mode: cors
+  • Sec-Fetch-Dest: empty
+  • Referer: http://localhost/Aone%20trawas/
+  • Accept-Encoding: gzip, deflate, br, zstd
+  • Accept-Language: en-ID,en;q=0.9,id-ID;q=0.8,id;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+📋 RAW POST DATA:
+  • checkin = "2025-12-29"
+  • checkout = "2025-12-30"
+  • villa_type = "tulip"
+  • full_name = "we"
+  • phone = "081999259938"
+  • email = ""
+  • special_request = ""
+  • booking_id = "B2512281302173"
+  • timestamp = "28/12/2025, 13.02.44"
+
+📁 FILES UPLOADED:
+  • identity_photo: Screenshot 2025-08-01 204908.png | Size: 1187862 bytes | Type: image/png | Error: 0
+  • payment_proof: Screenshot 2025-08-01 204854.png | Size: 1258578 bytes | Type: image/png | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundary3B5BRWYBsYgaOUTV
+  • Content-Length: 2447759
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B2512281302173
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: Screenshot 2025-08-01 204908.png
+  New name: B2512281302173_IDENTITY_Screenshot_2025-08-01_204908.png
+  ✅ Saved locally: uploads/2025/12/B2512281302173_IDENTITY_Screenshot_2025-08-01_204908.png
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: Screenshot 2025-08-01 204854.png
+  New name: B2512281302173_PAYMENT_Screenshot_2025-08-01_204854.png
+  ✅ Saved locally: uploads/2025/12/B2512281302173_PAYMENT_Screenshot_2025-08-01_204854.png
+
+============================================================
+📤 PREPARING DATA FOR GOOGLE SHEETS
+============================================================
+  • timestamp: "2025-12-28 07:02:44"
+  • booking_id: "B2512281302173"
+  • full_name: "we"
+  • phone: "081999259938"
+  • email: ""
+  • checkin: "2025-12-29"
+  • checkout: "2025-12-30"
+  • villa_type: "tulip"
+  • identity_file: "B2512281302173_IDENTITY_Screenshot_2025-08-01_204908.png"
+  • payment_file: "B2512281302173_PAYMENT_Screenshot_2025-08-01_204854.png"
+  • special_request: ""
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+
+============================================================
+🚀 ATTEMPTING TO SEND TO GOOGLE SHEETS
+============================================================
+📤 SENDING TO GOOGLE SHEETS...
+📦 Data size: 311 bytes
+📦 Data sample: timestamp=2025-12-28+07%3A02%3A44&booking_id=B2512281302173&full_name=we&phone=081999259938&email=&checkin=2025-12-29&checkout=2025-12-30&villa_type=tulip&identity_file=B2512281302173_IDENTITY_Screens
+📡 HTTP Response Code: 200
+📡 cURL Error: none
+📡 Response Length: 192 bytes
+📡 Response: {&quot;success&quot;:true,&quot;message&quot;:&quot;✅ Data saved to &#039;Bookings&#039; sheet!&quot;,&quot;villa_type_saved&quot;:&quot;tulip&quot;,&quot;row&quot;:6,&quot;booking_id&quot;:&quot;B2512281302173&quot;,&quot;sheet_name&quot;:&quot;Bookings&quot;,&quot;timestamp&quot;:&quot;2025-12-28T06:02:46.201Z&quot;}
+
+✅ GOOGLE SHEETS SUCCESS!
+   • Message: ✅ Data saved to 'Bookings' sheet!
+   • Row: 6
+
+============================================================
+☁️  UPLOADING TO GOOGLE DRIVE
+============================================================
+  • Identity file prepared: B2512281302173_IDENTITY_Screenshot_2025-08-01_204908.png (1187862 bytes)
+  • Payment file prepared: B2512281302173_PAYMENT_Screenshot_2025-08-01_204854.png (1258578 bytes)
+  • Drive HTTP Code: 200
+  ✅ Drive upload successful!
+
+============================================================
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+============================================================
+  • Booking ID: B2512281302173
+  • Sheets Status: Success
+  • Files Uploaded: Yes
+
+
+------------------------------------------------------------
+
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-28 07:22:51
+============================================================
+
+🌐 REQUEST HEADERS:
+  • Host: localhost
+  • Connection: keep-alive
+  • Content-Length: 56970
+  • sec-ch-ua-platform: "Windows"
+  • User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+  • sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+  • DNT: 1
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryd3XOMpHWC7OKWado
+  • sec-ch-ua-mobile: ?0
+  • Accept: */*
+  • Origin: http://localhost
+  • Sec-Fetch-Site: same-origin
+  • Sec-Fetch-Mode: cors
+  • Sec-Fetch-Dest: empty
+  • Referer: http://localhost/Aone%20trawas/
+  • Accept-Encoding: gzip, deflate, br, zstd
+  • Accept-Language: en-ID,en;q=0.9,id-ID;q=0.8,id;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+📋 RAW POST DATA:
+  • checkin = "2026-01-02"
+  • checkout = "2026-01-03"
+  • villa_type = "tulip"
+  • full_name = "jooooo"
+  • phone = "081999259938"
+  • email = "asdaesda@gmail.com"
+  • special_request = "tes"
+  • booking_id = "B2512281322343"
+  • timestamp = "28/12/2025, 13.22.51"
+
+📁 FILES UPLOADED:
+  • identity_photo: Screenshot 2025-07-17 211810.png | Size: 27813 bytes | Type: image/png | Error: 0
+  • payment_proof: Screenshot 2025-07-17 211810.png | Size: 27813 bytes | Type: image/png | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryd3XOMpHWC7OKWado
+  • Content-Length: 56970
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B2512281322343
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: Screenshot 2025-07-17 211810.png
+  New name: B2512281322343_IDENTITY_Screenshot_2025-07-17_211810.png
+  ✅ Saved locally: uploads/2025/12/B2512281322343_IDENTITY_Screenshot_2025-07-17_211810.png
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: Screenshot 2025-07-17 211810.png
+  New name: B2512281322343_PAYMENT_Screenshot_2025-07-17_211810.png
+  ✅ Saved locally: uploads/2025/12/B2512281322343_PAYMENT_Screenshot_2025-07-17_211810.png
+
+============================================================
+📤 PREPARING DATA FOR GOOGLE SHEETS
+============================================================
+  • timestamp: "2025-12-28 07:22:51"
+  • booking_id: "B2512281322343"
+  • full_name: "jooooo"
+  • phone: "081999259938"
+  • email: "asdaesda@gmail.com"
+  • checkin: "2026-01-02"
+  • checkout: "2026-01-03"
+  • villa_type: "tulip"
+  • identity_file: "B2512281322343_IDENTITY_Screenshot_2025-07-17_211810.png"
+  • payment_file: "B2512281322343_PAYMENT_Screenshot_2025-07-17_211810.png"
+  • special_request: "tes"
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+
+============================================================
+🚀 ATTEMPTING TO SEND TO GOOGLE SHEETS
+============================================================
+📤 SENDING TO GOOGLE SHEETS...
+📦 Data size: 338 bytes
+📦 Data sample: timestamp=2025-12-28+07%3A22%3A51&booking_id=B2512281322343&full_name=jooooo&phone=081999259938&email=asdaesda%40gmail.com&checkin=2026-01-02&checkout=2026-01-03&villa_type=tulip&identity_file=B251228
+📡 HTTP Response Code: 200
+📡 cURL Error: none
+📡 Response Length: 192 bytes
+📡 Response: {&quot;success&quot;:true,&quot;message&quot;:&quot;✅ Data saved to &#039;Bookings&#039; sheet!&quot;,&quot;villa_type_saved&quot;:&quot;tulip&quot;,&quot;row&quot;:7,&quot;booking_id&quot;:&quot;B2512281322343&quot;,&quot;sheet_name&quot;:&quot;Bookings&quot;,&quot;timestamp&quot;:&quot;2025-12-28T06:22:52.504Z&quot;}
+
+✅ GOOGLE SHEETS SUCCESS!
+   • Message: ✅ Data saved to 'Bookings' sheet!
+   • Row: 7
+
+============================================================
+☁️  UPLOADING TO GOOGLE DRIVE
+============================================================
+  • Identity file prepared: B2512281322343_IDENTITY_Screenshot_2025-07-17_211810.png (27813 bytes)
+  • Payment file prepared: B2512281322343_PAYMENT_Screenshot_2025-07-17_211810.png (27813 bytes)
+  • Drive HTTP Code: 200
+  ✅ Drive upload successful!
+
+============================================================
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+============================================================
+  • Booking ID: B2512281322343
+  • Sheets Status: Success
+  • Files Uploaded: Yes
+
+
+------------------------------------------------------------
+
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-28 08:37:42
+============================================================
+
+🌐 REQUEST HEADERS:
+  • Host: localhost
+  • Connection: keep-alive
+  • Content-Length: 171362
+  • sec-ch-ua-platform: "Windows"
+  • User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+  • sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+  • DNT: 1
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryOtkThgIVUn9hXbyK
+  • sec-ch-ua-mobile: ?0
+  • Accept: */*
+  • Origin: http://localhost
+  • Sec-Fetch-Site: same-origin
+  • Sec-Fetch-Mode: cors
+  • Sec-Fetch-Dest: empty
+  • Referer: http://localhost/Aone%20trawas/?
+  • Accept-Encoding: gzip, deflate, br, zstd
+  • Accept-Language: en-ID,en;q=0.9,id-ID;q=0.8,id;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+📋 RAW POST DATA:
+  • checkin = "2025-12-30"
+  • checkout = "2025-12-31"
+  • villa_type = "tulip"
+  • full_name = "tes"
+  • phone = "081999259938"
+  • email = "tes@gm"
+  • special_request = "tes"
+  • booking_id = "B2512281437179"
+  • timestamp = "28/12/2025, 14.37.42"
+
+📁 FILES UPLOADED:
+  • identity_photo: Screenshot 2025-07-17 211810.png | Size: 27813 bytes | Type: image/png | Error: 0
+  • payment_proof: Screenshot 2025-07-22 205826.png | Size: 142220 bytes | Type: image/png | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryOtkThgIVUn9hXbyK
+  • Content-Length: 171362
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B2512281437179
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: Screenshot 2025-07-17 211810.png
+  New name: B2512281437179_IDENTITY_Screenshot_2025-07-17_211810.png
+  ✅ Saved locally: uploads/2025/12/B2512281437179_IDENTITY_Screenshot_2025-07-17_211810.png
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: Screenshot 2025-07-22 205826.png
+  New name: B2512281437179_PAYMENT_Screenshot_2025-07-22_205826.png
+  ✅ Saved locally: uploads/2025/12/B2512281437179_PAYMENT_Screenshot_2025-07-22_205826.png
+
+============================================================
+📤 PREPARING DATA FOR GOOGLE SHEETS
+============================================================
+  • timestamp: "2025-12-28 08:37:42"
+  • booking_id: "B2512281437179"
+  • full_name: "tes"
+  • phone: "081999259938"
+  • email: "tes@gm"
+  • checkin: "2025-12-30"
+  • checkout: "2025-12-31"
+  • villa_type: "tulip"
+  • identity_file: "B2512281437179_IDENTITY_Screenshot_2025-07-17_211810.png"
+  • payment_file: "B2512281437179_PAYMENT_Screenshot_2025-07-22_205826.png"
+  • special_request: "tes"
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+
+============================================================
+🚀 ATTEMPTING TO SEND TO GOOGLE SHEETS
+============================================================
+📤 SENDING TO GOOGLE SHEETS...
+📦 Data size: 323 bytes
+📦 Data sample: timestamp=2025-12-28+08%3A37%3A42&booking_id=B2512281437179&full_name=tes&phone=081999259938&email=tes%40gm&checkin=2025-12-30&checkout=2025-12-31&villa_type=tulip&identity_file=B2512281437179_IDENTIT
+📡 HTTP Response Code: 200
+📡 cURL Error: none
+📡 Response Length: 192 bytes
+📡 Response: {&quot;success&quot;:true,&quot;message&quot;:&quot;✅ Data saved to &#039;Bookings&#039; sheet!&quot;,&quot;villa_type_saved&quot;:&quot;tulip&quot;,&quot;row&quot;:8,&quot;booking_id&quot;:&quot;B2512281437179&quot;,&quot;sheet_name&quot;:&quot;Bookings&quot;,&quot;timestamp&quot;:&quot;2025-12-28T07:37:44.102Z&quot;}
+
+✅ GOOGLE SHEETS SUCCESS!
+   • Message: ✅ Data saved to 'Bookings' sheet!
+   • Row: 8
+
+============================================================
+☁️  UPLOADING TO GOOGLE DRIVE
+============================================================
+  • Identity file prepared: B2512281437179_IDENTITY_Screenshot_2025-07-17_211810.png (27813 bytes)
+  • Payment file prepared: B2512281437179_PAYMENT_Screenshot_2025-07-22_205826.png (142220 bytes)
+  • Drive HTTP Code: 200
+  ✅ Drive upload successful!
+
+============================================================
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+============================================================
+  • Booking ID: B2512281437179
+  • Sheets Status: Success
+  • Files Uploaded: Yes
+
+
+------------------------------------------------------------
+
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-28 09:10:59
+============================================================
+
+🌐 REQUEST HEADERS:
+  • Host: localhost
+  • Connection: keep-alive
+  • Content-Length: 39441
+  • sec-ch-ua-platform: "Windows"
+  • User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+  • sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+  • DNT: 1
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundarywcJXxvBo6Y0HtQnR
+  • sec-ch-ua-mobile: ?0
+  • Accept: */*
+  • Origin: http://localhost
+  • Sec-Fetch-Site: same-origin
+  • Sec-Fetch-Mode: cors
+  • Sec-Fetch-Dest: empty
+  • Referer: http://localhost/Aone%20trawas/?
+  • Accept-Encoding: gzip, deflate, br, zstd
+  • Accept-Language: en-ID,en;q=0.9,id-ID;q=0.8,id;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+📋 RAW POST DATA:
+  • checkin = "2025-12-29"
+  • checkout = "2025-12-30"
+  • villa_type = "tulip"
+  • full_name = "Tatik Wijayanti"
+  • phone = "081999259938"
+  • email = "yehezkialsean@gmail.com"
+  • special_request = "tes"
+  • booking_id = "B2512281510488"
+  • timestamp = "28/12/2025, 15.10.59"
+
+📁 FILES UPLOADED:
+  • identity_photo: Screenshot 2025-07-17 211810.png | Size: 27813 bytes | Type: image/png | Error: 0
+  • payment_proof: Screenshot 2025-07-17 211818.png | Size: 10270 bytes | Type: image/png | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundarywcJXxvBo6Y0HtQnR
+  • Content-Length: 39441
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B2512281510488
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: Screenshot 2025-07-17 211810.png
+  New name: B2512281510488_IDENTITY_Screenshot_2025-07-17_211810.png
+  ✅ Saved locally: uploads/2025/12/B2512281510488_IDENTITY_Screenshot_2025-07-17_211810.png
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: Screenshot 2025-07-17 211818.png
+  New name: B2512281510488_PAYMENT_Screenshot_2025-07-17_211818.png
+  ✅ Saved locally: uploads/2025/12/B2512281510488_PAYMENT_Screenshot_2025-07-17_211818.png
+
+============================================================
+📤 PREPARING DATA FOR GOOGLE SHEETS
+============================================================
+  • timestamp: "2025-12-28 09:10:59"
+  • booking_id: "B2512281510488"
+  • full_name: "Tatik Wijayanti"
+  • phone: "081999259938"
+  • email: "yehezkialsean@gmail.com"
+  • checkin: "2025-12-29"
+  • checkout: "2025-12-30"
+  • villa_type: "tulip"
+  • identity_file: "B2512281510488_IDENTITY_Screenshot_2025-07-17_211810.png"
+  • payment_file: "B2512281510488_PAYMENT_Screenshot_2025-07-17_211818.png"
+  • special_request: "tes"
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+
+============================================================
+🚀 ATTEMPTING TO SEND TO GOOGLE SHEETS
+============================================================
+📤 SENDING TO GOOGLE SHEETS...
+📦 Data size: 352 bytes
+📦 Data sample: timestamp=2025-12-28+09%3A10%3A59&booking_id=B2512281510488&full_name=Tatik+Wijayanti&phone=081999259938&email=yehezkialsean%40gmail.com&checkin=2025-12-29&checkout=2025-12-30&villa_type=tulip&identit
+📡 HTTP Response Code: 200
+📡 cURL Error: none
+📡 Response Length: 192 bytes
+📡 Response: {&quot;success&quot;:true,&quot;message&quot;:&quot;✅ Data saved to &#039;Bookings&#039; sheet!&quot;,&quot;villa_type_saved&quot;:&quot;tulip&quot;,&quot;row&quot;:2,&quot;booking_id&quot;:&quot;B2512281510488&quot;,&quot;sheet_name&quot;:&quot;Bookings&quot;,&quot;timestamp&quot;:&quot;2025-12-28T08:11:02.958Z&quot;}
+
+✅ GOOGLE SHEETS SUCCESS!
+   • Message: ✅ Data saved to 'Bookings' sheet!
+   • Row: 2
+
+============================================================
+☁️  UPLOADING TO GOOGLE DRIVE
+============================================================
+  • Identity file prepared: B2512281510488_IDENTITY_Screenshot_2025-07-17_211810.png (27813 bytes)
+  • Payment file prepared: B2512281510488_PAYMENT_Screenshot_2025-07-17_211818.png (10270 bytes)
+  • Drive HTTP Code: 200
+  ✅ Drive upload successful!
+
+============================================================
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+============================================================
+  • Booking ID: B2512281510488
+  • Sheets Status: Success
+  • Files Uploaded: Yes
+
+
+------------------------------------------------------------
+
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-28 09:14:40
+============================================================
+
+🌐 REQUEST HEADERS:
+  • Host: localhost
+  • Connection: keep-alive
+  • Content-Length: 285793
+  • sec-ch-ua-platform: "Windows"
+  • User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+  • sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+  • DNT: 1
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundarynaFXKo92yKH51OeZ
+  • sec-ch-ua-mobile: ?0
+  • Accept: */*
+  • Origin: http://localhost
+  • Sec-Fetch-Site: same-origin
+  • Sec-Fetch-Mode: cors
+  • Sec-Fetch-Dest: empty
+  • Referer: http://localhost/Aone%20trawas/?
+  • Accept-Encoding: gzip, deflate, br, zstd
+  • Accept-Language: en-ID,en;q=0.9,id-ID;q=0.8,id;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+📋 RAW POST DATA:
+  • checkin = "2025-12-29"
+  • checkout = "2025-12-30"
+  • villa_type = "tulip"
+  • full_name = "Tatik Wijayanti"
+  • phone = "081999259938"
+  • email = "asdaesda@gmail.com"
+  • special_request = "tes"
+  • booking_id = "B2512281514494"
+  • timestamp = "28/12/2025, 15.14.40"
+
+📁 FILES UPLOADED:
+  • identity_photo: Screenshot 2025-07-22 205826.png | Size: 142220 bytes | Type: image/png | Error: 0
+  • payment_proof: Screenshot 2025-07-22 205826.png | Size: 142220 bytes | Type: image/png | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundarynaFXKo92yKH51OeZ
+  • Content-Length: 285793
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B2512281514494
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: Screenshot 2025-07-22 205826.png
+  New name: B2512281514494_IDENTITY_Screenshot_2025-07-22_205826.png
+  ✅ Saved locally: uploads/2025/12/B2512281514494_IDENTITY_Screenshot_2025-07-22_205826.png
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: Screenshot 2025-07-22 205826.png
+  New name: B2512281514494_PAYMENT_Screenshot_2025-07-22_205826.png
+  ✅ Saved locally: uploads/2025/12/B2512281514494_PAYMENT_Screenshot_2025-07-22_205826.png
+
+============================================================
+📤 PREPARING DATA FOR GOOGLE SHEETS
+============================================================
+  • timestamp: "2025-12-28 09:14:40"
+  • booking_id: "B2512281514494"
+  • full_name: "Tatik Wijayanti"
+  • phone: "081999259938"
+  • email: "asdaesda@gmail.com"
+  • checkin: "2025-12-29"
+  • checkout: "2025-12-30"
+  • villa_type: "tulip"
+  • identity_file: "B2512281514494_IDENTITY_Screenshot_2025-07-22_205826.png"
+  • payment_file: "B2512281514494_PAYMENT_Screenshot_2025-07-22_205826.png"
+  • special_request: "tes"
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+
+============================================================
+🚀 ATTEMPTING TO SEND TO GOOGLE SHEETS
+============================================================
+📤 SENDING TO GOOGLE SHEETS...
+📦 Data size: 347 bytes
+📦 Data sample: timestamp=2025-12-28+09%3A14%3A40&booking_id=B2512281514494&full_name=Tatik+Wijayanti&phone=081999259938&email=asdaesda%40gmail.com&checkin=2025-12-29&checkout=2025-12-30&villa_type=tulip&identity_fil
+📡 HTTP Response Code: 200
+📡 cURL Error: none
+📡 Response Length: 192 bytes
+📡 Response: {&quot;success&quot;:true,&quot;message&quot;:&quot;✅ Data saved to &#039;Bookings&#039; sheet!&quot;,&quot;villa_type_saved&quot;:&quot;tulip&quot;,&quot;row&quot;:3,&quot;booking_id&quot;:&quot;B2512281514494&quot;,&quot;sheet_name&quot;:&quot;Bookings&quot;,&quot;timestamp&quot;:&quot;2025-12-28T08:14:41.740Z&quot;}
+
+✅ GOOGLE SHEETS SUCCESS!
+   • Message: ✅ Data saved to 'Bookings' sheet!
+   • Row: 3
+
+============================================================
+☁️  UPLOADING TO GOOGLE DRIVE
+============================================================
+  • Identity file prepared: B2512281514494_IDENTITY_Screenshot_2025-07-22_205826.png (142220 bytes)
+  • Payment file prepared: B2512281514494_PAYMENT_Screenshot_2025-07-22_205826.png (142220 bytes)
+  • Drive HTTP Code: 200
+  ✅ Drive upload successful!
+
+============================================================
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+============================================================
+  • Booking ID: B2512281514494
+  • Sheets Status: Success
+  • Files Uploaded: Yes
+
+
+------------------------------------------------------------
+
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-28 09:30:17
+============================================================
+
+🌐 REQUEST HEADERS:
+  • Host: localhost
+  • Connection: keep-alive
+  • Content-Length: 1339739
+  • sec-ch-ua-platform: "Windows"
+  • User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+  • sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+  • DNT: 1
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundary7Qn8Ul2vx2YO3b3F
+  • sec-ch-ua-mobile: ?0
+  • Accept: */*
+  • Origin: http://localhost
+  • Sec-Fetch-Site: same-origin
+  • Sec-Fetch-Mode: cors
+  • Sec-Fetch-Dest: empty
+  • Referer: http://localhost/Aone%20trawas/?
+  • Accept-Encoding: gzip, deflate, br, zstd
+  • Accept-Language: en-ID,en;q=0.9,id-ID;q=0.8,id;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+📋 RAW POST DATA:
+  • checkin = "2025-12-29"
+  • checkout = "2025-12-30"
+  • villa_type = "edelweiss"
+  • full_name = "tes"
+  • phone = "081999259938"
+  • email = "tes@gm"
+  • special_request = "aaa"
+  • booking_id = "B2512281530105"
+  • timestamp = "28/12/2025, 15.30.17"
+
+📁 FILES UPLOADED:
+  • identity_photo: Screenshot 2025-07-31 205509.png | Size: 79828 bytes | Type: image/png | Error: 0
+  • payment_proof: Screenshot 2025-08-01 204854.png | Size: 1258578 bytes | Type: image/png | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundary7Qn8Ul2vx2YO3b3F
+  • Content-Length: 1339739
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B2512281530105
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: Screenshot 2025-07-31 205509.png
+  New name: B2512281530105_IDENTITY_Screenshot_2025-07-31_205509.png
+  ✅ Saved locally: uploads/2025/12/B2512281530105_IDENTITY_Screenshot_2025-07-31_205509.png
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: Screenshot 2025-08-01 204854.png
+  New name: B2512281530105_PAYMENT_Screenshot_2025-08-01_204854.png
+  ✅ Saved locally: uploads/2025/12/B2512281530105_PAYMENT_Screenshot_2025-08-01_204854.png
+
+============================================================
+📤 PREPARING DATA FOR GOOGLE SHEETS
+============================================================
+  • timestamp: "2025-12-28 09:30:17"
+  • booking_id: "B2512281530105"
+  • full_name: "tes"
+  • phone: "081999259938"
+  • email: "tes@gm"
+  • checkin: "2025-12-29"
+  • checkout: "2025-12-30"
+  • villa_type: "edelweiss"
+  • identity_file: "B2512281530105_IDENTITY_Screenshot_2025-07-31_205509.png"
+  • payment_file: "B2512281530105_PAYMENT_Screenshot_2025-08-01_204854.png"
+  • special_request: "aaa"
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+
+============================================================
+🚀 ATTEMPTING TO SEND TO GOOGLE SHEETS
+============================================================
+📤 SENDING TO GOOGLE SHEETS...
+📦 Data size: 327 bytes
+📦 Data sample: timestamp=2025-12-28+09%3A30%3A17&booking_id=B2512281530105&full_name=tes&phone=081999259938&email=tes%40gm&checkin=2025-12-29&checkout=2025-12-30&villa_type=edelweiss&identity_file=B2512281530105_IDE
+📡 HTTP Response Code: 200
+📡 cURL Error: none
+📡 Response Length: 196 bytes
+📡 Response: {&quot;success&quot;:true,&quot;message&quot;:&quot;✅ Data saved to &#039;Bookings&#039; sheet!&quot;,&quot;villa_type_saved&quot;:&quot;edelweiss&quot;,&quot;row&quot;:3,&quot;booking_id&quot;:&quot;B2512281530105&quot;,&quot;sheet_name&quot;:&quot;Bookings&quot;,&quot;timestamp&quot;:&quot;2025-12-28T08:30:18.512Z&quot;}
+
+✅ GOOGLE SHEETS SUCCESS!
+   • Message: ✅ Data saved to 'Bookings' sheet!
+   • Row: 3
+
+============================================================
+☁️  UPLOADING TO GOOGLE DRIVE
+============================================================
+  • Identity file prepared: B2512281530105_IDENTITY_Screenshot_2025-07-31_205509.png (79828 bytes)
+  • Payment file prepared: B2512281530105_PAYMENT_Screenshot_2025-08-01_204854.png (1258578 bytes)
+  • Drive HTTP Code: 200
+  ✅ Drive upload successful!
+
+============================================================
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+============================================================
+  • Booking ID: B2512281530105
+  • Sheets Status: Success
+  • Files Uploaded: Yes
+
+
+------------------------------------------------------------
+
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-28 09:36:55
+============================================================
+
+🌐 REQUEST HEADERS:
+  • Host: localhost
+  • Connection: keep-alive
+  • Content-Length: 1322162
+  • sec-ch-ua-platform: "Windows"
+  • User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+  • sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+  • DNT: 1
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryy2LE2i57JRJkhBH5
+  • sec-ch-ua-mobile: ?0
+  • Accept: */*
+  • Origin: http://localhost
+  • Sec-Fetch-Site: same-origin
+  • Sec-Fetch-Mode: cors
+  • Sec-Fetch-Dest: empty
+  • Referer: http://localhost/Aone%20trawas/?
+  • Accept-Encoding: gzip, deflate, br, zstd
+  • Accept-Language: en-ID,en;q=0.9,id-ID;q=0.8,id;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+📋 RAW POST DATA:
+  • checkin = "2025-12-29"
+  • checkout = "2025-12-30"
+  • villa_type = "mahoni"
+  • full_name = "tes"
+  • phone = "081999259938"
+  • email = "tes@gm"
+  • special_request = "tes"
+  • booking_id = "B2512281536515"
+  • timestamp = "28/12/2025, 15.36.55"
+
+📁 FILES UPLOADED:
+  • identity_photo: Screenshot 2025-07-31 205759.png | Size: 208863 bytes | Type: image/png | Error: 0
+  • payment_proof: Screenshot 2025-08-01 204952.png | Size: 1111969 bytes | Type: image/png | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryy2LE2i57JRJkhBH5
+  • Content-Length: 1322162
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B2512281536515
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: Screenshot 2025-07-31 205759.png
+  New name: B2512281536515_IDENTITY_Screenshot_2025-07-31_205759.png
+  ✅ Saved locally: uploads/2025/12/B2512281536515_IDENTITY_Screenshot_2025-07-31_205759.png
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: Screenshot 2025-08-01 204952.png
+  New name: B2512281536515_PAYMENT_Screenshot_2025-08-01_204952.png
+  ✅ Saved locally: uploads/2025/12/B2512281536515_PAYMENT_Screenshot_2025-08-01_204952.png
+
+============================================================
+📤 PREPARING DATA FOR GOOGLE SHEETS
+============================================================
+  • timestamp: "2025-12-28 09:36:55"
+  • booking_id: "B2512281536515"
+  • full_name: "tes"
+  • phone: "081999259938"
+  • email: "tes@gm"
+  • checkin: "2025-12-29"
+  • checkout: "2025-12-30"
+  • villa_type: "mahoni"
+  • identity_file: "B2512281536515_IDENTITY_Screenshot_2025-07-31_205759.png"
+  • payment_file: "B2512281536515_PAYMENT_Screenshot_2025-08-01_204952.png"
+  • special_request: "tes"
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+
+============================================================
+🚀 ATTEMPTING TO SEND TO GOOGLE SHEETS
+============================================================
+📤 SENDING TO GOOGLE SHEETS...
+📦 Data size: 324 bytes
+📦 Data sample: timestamp=2025-12-28+09%3A36%3A55&booking_id=B2512281536515&full_name=tes&phone=081999259938&email=tes%40gm&checkin=2025-12-29&checkout=2025-12-30&villa_type=mahoni&identity_file=B2512281536515_IDENTI
+📡 HTTP Response Code: 200
+📡 cURL Error: none
+📡 Response Length: 193 bytes
+📡 Response: {&quot;success&quot;:true,&quot;message&quot;:&quot;✅ Data saved to &#039;Bookings&#039; sheet!&quot;,&quot;villa_type_saved&quot;:&quot;mahoni&quot;,&quot;row&quot;:4,&quot;booking_id&quot;:&quot;B2512281536515&quot;,&quot;sheet_name&quot;:&quot;Bookings&quot;,&quot;timestamp&quot;:&quot;2025-12-28T08:36:56.459Z&quot;}
+
+✅ GOOGLE SHEETS SUCCESS!
+   • Message: ✅ Data saved to 'Bookings' sheet!
+   • Row: 4
+
+============================================================
+☁️  UPLOADING TO GOOGLE DRIVE
+============================================================
+  • Identity file prepared: B2512281536515_IDENTITY_Screenshot_2025-07-31_205759.png (208863 bytes)
+  • Payment file prepared: B2512281536515_PAYMENT_Screenshot_2025-08-01_204952.png (1111969 bytes)
+  • Drive HTTP Code: 200
+  ✅ Drive upload successful!
+
+============================================================
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+============================================================
+  • Booking ID: B2512281536515
+  • Sheets Status: Success
+  • Files Uploaded: Yes
+
+
+------------------------------------------------------------
+
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-28 09:43:17
+============================================================
+
+🌐 REQUEST HEADERS:
+  • Host: localhost
+  • Connection: keep-alive
+  • Content-Length: 285780
+  • sec-ch-ua-platform: "Windows"
+  • User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+  • sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+  • DNT: 1
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundarykisKOqQfBELtNAGz
+  • sec-ch-ua-mobile: ?0
+  • Accept: */*
+  • Origin: http://localhost
+  • Sec-Fetch-Site: same-origin
+  • Sec-Fetch-Mode: cors
+  • Sec-Fetch-Dest: empty
+  • Referer: http://localhost/Aone%20trawas/?
+  • Accept-Encoding: gzip, deflate, br, zstd
+  • Accept-Language: en-ID,en;q=0.9,id-ID;q=0.8,id;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+📋 RAW POST DATA:
+  • checkin = "2026-01-01"
+  • checkout = "2026-01-02"
+  • villa_type = "mahoni"
+  • full_name = "Seanjowennnnn"
+  • phone = "081999259938"
+  • email = "tes@gm"
+  • special_request = "tes"
+  • booking_id = "B2512281543819"
+  • timestamp = "28/12/2025, 15.43.17"
+
+📁 FILES UPLOADED:
+  • identity_photo: Screenshot 2025-07-22 205826.png | Size: 142220 bytes | Type: image/png | Error: 0
+  • payment_proof: Screenshot 2025-07-22 205826.png | Size: 142220 bytes | Type: image/png | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundarykisKOqQfBELtNAGz
+  • Content-Length: 285780
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B2512281543819
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: Screenshot 2025-07-22 205826.png
+  New name: B2512281543819_IDENTITY_Screenshot_2025-07-22_205826.png
+  ✅ Saved locally: uploads/2025/12/B2512281543819_IDENTITY_Screenshot_2025-07-22_205826.png
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: Screenshot 2025-07-22 205826.png
+  New name: B2512281543819_PAYMENT_Screenshot_2025-07-22_205826.png
+  ✅ Saved locally: uploads/2025/12/B2512281543819_PAYMENT_Screenshot_2025-07-22_205826.png
+
+============================================================
+📤 PREPARING DATA FOR GOOGLE SHEETS
+============================================================
+  • timestamp: "2025-12-28 09:43:17"
+  • booking_id: "B2512281543819"
+  • full_name: "Seanjowennnnn"
+  • phone: "081999259938"
+  • email: "tes@gm"
+  • checkin: "2026-01-01"
+  • checkout: "2026-01-02"
+  • villa_type: "mahoni"
+  • identity_file: "B2512281543819_IDENTITY_Screenshot_2025-07-22_205826.png"
+  • payment_file: "B2512281543819_PAYMENT_Screenshot_2025-07-22_205826.png"
+  • special_request: "tes"
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+
+============================================================
+🚀 ATTEMPTING TO SEND TO GOOGLE SHEETS
+============================================================
+📤 SENDING TO GOOGLE SHEETS...
+📦 Data size: 334 bytes
+📦 Data sample: timestamp=2025-12-28+09%3A43%3A17&booking_id=B2512281543819&full_name=Seanjowennnnn&phone=081999259938&email=tes%40gm&checkin=2026-01-01&checkout=2026-01-02&villa_type=mahoni&identity_file=B2512281543
+📡 HTTP Response Code: 200
+📡 cURL Error: none
+📡 Response Length: 193 bytes
+📡 Response: {&quot;success&quot;:true,&quot;message&quot;:&quot;✅ Data saved to &#039;Bookings&#039; sheet!&quot;,&quot;villa_type_saved&quot;:&quot;mahoni&quot;,&quot;row&quot;:5,&quot;booking_id&quot;:&quot;B2512281543819&quot;,&quot;sheet_name&quot;:&quot;Bookings&quot;,&quot;timestamp&quot;:&quot;2025-12-28T08:43:19.204Z&quot;}
+
+✅ GOOGLE SHEETS SUCCESS!
+   • Message: ✅ Data saved to 'Bookings' sheet!
+   • Row: 5
+
+============================================================
+☁️  UPLOADING TO GOOGLE DRIVE
+============================================================
+  • Identity file prepared: B2512281543819_IDENTITY_Screenshot_2025-07-22_205826.png (142220 bytes)
+  • Payment file prepared: B2512281543819_PAYMENT_Screenshot_2025-07-22_205826.png (142220 bytes)
+  • Drive HTTP Code: 200
+  ✅ Drive upload successful!
+
+============================================================
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+============================================================
+  • Booking ID: B2512281543819
+  • Sheets Status: Success
+  • Files Uploaded: Yes
+
+
+------------------------------------------------------------
+
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-28 12:08:36
+============================================================
+
+🌐 REQUEST HEADERS:
+  • Host: localhost
+  • Connection: keep-alive
+  • Content-Length: 7541029
+  • sec-ch-ua-platform: "Windows"
+  • User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+  • sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+  • DNT: 1
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryZjA3V9RFzT4vA2B8
+  • sec-ch-ua-mobile: ?0
+  • Accept: */*
+  • Origin: http://localhost
+  • Sec-Fetch-Site: same-origin
+  • Sec-Fetch-Mode: cors
+  • Sec-Fetch-Dest: empty
+  • Referer: http://localhost/Aone%20trawas/
+  • Accept-Encoding: gzip, deflate, br, zstd
+  • Accept-Language: en-ID,en;q=0.9,id-ID;q=0.8,id;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+📋 RAW POST DATA:
+  • checkin = "2025-12-30"
+  • checkout = "2025-12-31"
+  • villa_type = "tulip"
+  • full_name = "Tes terakhir"
+  • phone = "081999259938"
+  • email = "yehezkialsean@gmail.com"
+  • special_request = "tes"
+  • booking_id = "B2512281808401"
+  • timestamp = "28/12/2025, 18.08.35"
+
+📁 FILES UPLOADED:
+  • identity_photo: villa33.jpg | Size: 4444450 bytes | Type: image/jpeg | Error: 0
+  • payment_proof: villa31.jpg | Size: 3095264 bytes | Type: image/jpeg | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryZjA3V9RFzT4vA2B8
+  • Content-Length: 7541029
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B2512281808401
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: villa33.jpg
+  New name: B2512281808401_IDENTITY_villa33.jpg
+  ✅ Saved locally: uploads/2025/12/B2512281808401_IDENTITY_villa33.jpg
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: villa31.jpg
+  New name: B2512281808401_PAYMENT_villa31.jpg
+  ✅ Saved locally: uploads/2025/12/B2512281808401_PAYMENT_villa31.jpg
+
+============================================================
+📤 PREPARING DATA FOR GOOGLE SHEETS
+============================================================
+  • timestamp: "2025-12-28 12:08:36"
+  • booking_id: "B2512281808401"
+  • full_name: "Tes terakhir"
+  • phone: "081999259938"
+  • email: "yehezkialsean@gmail.com"
+  • checkin: "2025-12-30"
+  • checkout: "2025-12-31"
+  • villa_type: "tulip"
+  • identity_file: "B2512281808401_IDENTITY_villa33.jpg"
+  • payment_file: "B2512281808401_PAYMENT_villa31.jpg"
+  • special_request: "tes"
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+
+============================================================
+🚀 ATTEMPTING TO SEND TO GOOGLE SHEETS
+============================================================
+📤 SENDING TO GOOGLE SHEETS...
+📦 Data size: 307 bytes
+📦 Data sample: timestamp=2025-12-28+12%3A08%3A36&booking_id=B2512281808401&full_name=Tes+terakhir&phone=081999259938&email=yehezkialsean%40gmail.com&checkin=2025-12-30&checkout=2025-12-31&villa_type=tulip&identity_f
+📡 HTTP Response Code: 200
+📡 cURL Error: none
+📡 Response Length: 192 bytes
+📡 Response: {&quot;success&quot;:true,&quot;message&quot;:&quot;✅ Data saved to &#039;Bookings&#039; sheet!&quot;,&quot;villa_type_saved&quot;:&quot;tulip&quot;,&quot;row&quot;:6,&quot;booking_id&quot;:&quot;B2512281808401&quot;,&quot;sheet_name&quot;:&quot;Bookings&quot;,&quot;timestamp&quot;:&quot;2025-12-28T11:08:37.322Z&quot;}
+
+✅ GOOGLE SHEETS SUCCESS!
+   • Message: ✅ Data saved to 'Bookings' sheet!
+   • Row: 6
+
+============================================================
+☁️  UPLOADING TO GOOGLE DRIVE
+============================================================
+  • Identity file prepared: B2512281808401_IDENTITY_villa33.jpg (4444450 bytes)
+  • Payment file prepared: B2512281808401_PAYMENT_villa31.jpg (3095264 bytes)
+  • Drive HTTP Code: 200
+  ✅ Drive upload successful!
+
+============================================================
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+============================================================
+  • Booking ID: B2512281808401
+  • Sheets Status: Success
+  • Files Uploaded: Yes
+
+
+------------------------------------------------------------
+
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-29 06:17:44
+============================================================
+
+🌐 REQUEST HEADERS:
+  • Host: localhost
+  • Connection: keep-alive
+  • Content-Length: 3583401
+  • sec-ch-ua-platform: "Android"
+  • User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
+  • sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+  • DNT: 1
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryDF5BZl9D6qxxU6gN
+  • sec-ch-ua-mobile: ?1
+  • Accept: */*
+  • Origin: http://localhost
+  • Sec-Fetch-Site: same-origin
+  • Sec-Fetch-Mode: cors
+  • Sec-Fetch-Dest: empty
+  • Referer: http://localhost/Aone%20trawas/
+  • Accept-Encoding: gzip, deflate, br, zstd
+  • Accept-Language: en-ID,en;q=0.9,id-ID;q=0.8,id;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+📋 RAW POST DATA:
+  • checkin = "2025-12-31"
+  • checkout = "2026-01-01"
+  • villa_type = "tulip"
+  • full_name = "Tatik Wijayanti"
+  • phone = "1243155311351"
+  • email = "seanhowengaming@gmail.com"
+  • special_request = "tes"
+  • booking_id = "B2512291217330"
+  • timestamp = "29/12/2025, 12.17.44"
+
+📁 FILES UPLOADED:
+  • identity_photo: tes.png | Size: 579257 bytes | Type: image/png | Error: 0
+  • payment_proof: villa1.jpg | Size: 3002829 bytes | Type: image/jpeg | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryDF5BZl9D6qxxU6gN
+  • Content-Length: 3583401
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B2512291217330
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: tes.png
+  New name: B2512291217330_IDENTITY_tes.png
+  ✅ Saved locally: uploads/2025/12/B2512291217330_IDENTITY_tes.png
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: villa1.jpg
+  New name: B2512291217330_PAYMENT_villa1.jpg
+  ✅ Saved locally: uploads/2025/12/B2512291217330_PAYMENT_villa1.jpg
+
+============================================================
+📤 PREPARING DATA FOR GOOGLE SHEETS
+============================================================
+  • timestamp: "2025-12-29 06:17:44"
+  • booking_id: "B2512291217330"
+  • full_name: "Tatik Wijayanti"
+  • phone: "1243155311351"
+  • email: "seanhowengaming@gmail.com"
+  • checkin: "2025-12-31"
+  • checkout: "2026-01-01"
+  • villa_type: "tulip"
+  • identity_file: "B2512291217330_IDENTITY_tes.png"
+  • payment_file: "B2512291217330_PAYMENT_villa1.jpg"
+  • special_request: "tes"
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+
+============================================================
+🚀 ATTEMPTING TO SEND TO GOOGLE SHEETS
+============================================================
+📤 SENDING TO GOOGLE SHEETS...
+📦 Data size: 308 bytes
+📦 Data sample: timestamp=2025-12-29+06%3A17%3A44&booking_id=B2512291217330&full_name=Tatik+Wijayanti&phone=1243155311351&email=seanhowengaming%40gmail.com&checkin=2025-12-31&checkout=2026-01-01&villa_type=tulip&iden
+📡 HTTP Response Code: 200
+📡 cURL Error: none
+📡 Response Length: 192 bytes
+📡 Response: {&quot;success&quot;:true,&quot;message&quot;:&quot;✅ Data saved to &#039;Bookings&#039; sheet!&quot;,&quot;villa_type_saved&quot;:&quot;tulip&quot;,&quot;row&quot;:7,&quot;booking_id&quot;:&quot;B2512291217330&quot;,&quot;sheet_name&quot;:&quot;Bookings&quot;,&quot;timestamp&quot;:&quot;2025-12-29T05:17:45.607Z&quot;}
+
+✅ GOOGLE SHEETS SUCCESS!
+   • Message: ✅ Data saved to 'Bookings' sheet!
+   • Row: 7
+
+============================================================
+☁️  UPLOADING TO GOOGLE DRIVE
+============================================================
+  • Identity file prepared: B2512291217330_IDENTITY_tes.png (579257 bytes)
+  • Payment file prepared: B2512291217330_PAYMENT_villa1.jpg (3002829 bytes)
+  • Drive HTTP Code: 200
+  ✅ Drive upload successful!
+
+============================================================
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+============================================================
+  • Booking ID: B2512291217330
+  • Sheets Status: Success
+  • Files Uploaded: Yes
+
+
+------------------------------------------------------------
+
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-29 09:05:30
+============================================================
+
+🌐 REQUEST HEADERS:
+  • Host: localhost
+  • Connection: keep-alive
+  • Content-Length: 6645390
+  • sec-ch-ua-platform: "Windows"
+  • User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+  • sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+  • DNT: 1
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryAiSwOBg2W54TKBnK
+  • sec-ch-ua-mobile: ?0
+  • Accept: */*
+  • Origin: http://localhost
+  • Sec-Fetch-Site: same-origin
+  • Sec-Fetch-Mode: cors
+  • Sec-Fetch-Dest: empty
+  • Referer: http://localhost/Aone%20trawas/
+  • Accept-Encoding: gzip, deflate, br, zstd
+  • Accept-Language: en-ID,en;q=0.9,id-ID;q=0.8,id;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+📋 RAW POST DATA:
+  • checkin = "2026-01-01"
+  • checkout = "2026-01-02"
+  • villa_type = "tulip"
+  • full_name = "testu"
+  • phone = "081999259938"
+  • email = "seanhowengaming@gmail.com"
+  • special_request = "tes"
+  • booking_id = "B2512291505880"
+  • timestamp = "29/12/2025, 15.05.30"
+
+📁 FILES UPLOADED:
+  • identity_photo: villa12.jpg | Size: 3322040 bytes | Type: image/jpeg | Error: 0
+  • payment_proof: villa12.jpg | Size: 3322040 bytes | Type: image/jpeg | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryAiSwOBg2W54TKBnK
+  • Content-Length: 6645390
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B2512291505880
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: villa12.jpg
+  New name: B2512291505880_IDENTITY_villa12.jpg
+  ✅ Saved locally: uploads/2025/12/B2512291505880_IDENTITY_villa12.jpg
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: villa12.jpg
+  New name: B2512291505880_PAYMENT_villa12.jpg
+  ✅ Saved locally: uploads/2025/12/B2512291505880_PAYMENT_villa12.jpg
+
+============================================================
+📤 PREPARING DATA FOR GOOGLE SHEETS
+============================================================
+  • timestamp: "2025-12-29 09:05:30"
+  • booking_id: "B2512291505880"
+  • full_name: "testu"
+  • phone: "081999259938"
+  • email: "seanhowengaming@gmail.com"
+  • checkin: "2026-01-01"
+  • checkout: "2026-01-02"
+  • villa_type: "tulip"
+  • identity_file: "B2512291505880_IDENTITY_villa12.jpg"
+  • payment_file: "B2512291505880_PAYMENT_villa12.jpg"
+  • special_request: "tes"
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+
+============================================================
+🚀 ATTEMPTING TO SEND TO GOOGLE SHEETS
+============================================================
+📤 SENDING TO GOOGLE SHEETS...
+📦 Data size: 302 bytes
+📦 Data sample: timestamp=2025-12-29+09%3A05%3A30&booking_id=B2512291505880&full_name=testu&phone=081999259938&email=seanhowengaming%40gmail.com&checkin=2026-01-01&checkout=2026-01-02&villa_type=tulip&identity_file=B
+📡 HTTP Response Code: 200
+📡 cURL Error: none
+📡 Response Length: 192 bytes
+📡 Response: {&quot;success&quot;:true,&quot;message&quot;:&quot;✅ Data saved to &#039;Bookings&#039; sheet!&quot;,&quot;villa_type_saved&quot;:&quot;tulip&quot;,&quot;row&quot;:8,&quot;booking_id&quot;:&quot;B2512291505880&quot;,&quot;sheet_name&quot;:&quot;Bookings&quot;,&quot;timestamp&quot;:&quot;2025-12-29T08:05:32.593Z&quot;}
+
+✅ GOOGLE SHEETS SUCCESS!
+   • Message: ✅ Data saved to 'Bookings' sheet!
+   • Row: 8
+
+============================================================
+☁️  UPLOADING TO GOOGLE DRIVE
+============================================================
+  • Identity file prepared: B2512291505880_IDENTITY_villa12.jpg (3322040 bytes)
+  • Payment file prepared: B2512291505880_PAYMENT_villa12.jpg (3322040 bytes)
+  • Drive HTTP Code: 200
+  ✅ Drive upload successful!
+
+============================================================
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+============================================================
+  • Booking ID: B2512291505880
+  • Sheets Status: Success
+  • Files Uploaded: Yes
+
+
+------------------------------------------------------------
+
+
+============================================================
+📅 NEW BOOKING ATTEMPT - 2025-12-29 09:06:55
+============================================================
+
+🌐 REQUEST HEADERS:
+  • Host: localhost
+  • Connection: keep-alive
+  • Content-Length: 5315245
+  • sec-ch-ua-platform: "Windows"
+  • User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+  • sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+  • DNT: 1
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryGfJ9W5sBaE14cx17
+  • sec-ch-ua-mobile: ?0
+  • Accept: */*
+  • Origin: http://localhost
+  • Sec-Fetch-Site: same-origin
+  • Sec-Fetch-Mode: cors
+  • Sec-Fetch-Dest: empty
+  • Referer: http://localhost/Aone%20trawas/
+  • Accept-Encoding: gzip, deflate, br, zstd
+  • Accept-Language: en-ID,en;q=0.9,id-ID;q=0.8,id;q=0.7,en-GB;q=0.6,en-US;q=0.5
+
+📋 RAW POST DATA:
+  • checkin = "2026-01-03"
+  • checkout = "2026-01-04"
+  • villa_type = "tulip"
+  • full_name = "a"
+  • phone = "08123456789"
+  • email = "seanhowengaming@gmail.com"
+  • special_request = "a"
+  • booking_id = "B2512291506263"
+  • timestamp = "29/12/2025, 15.06.55"
+
+📁 FILES UPLOADED:
+  • identity_photo: villa32.jpg | Size: 2656971 bytes | Type: image/jpeg | Error: 0
+  • payment_proof: villa32.jpg | Size: 2656971 bytes | Type: image/jpeg | Error: 0
+
+📝 PHP ENVIRONMENT:
+  • POST Method: POST
+  • Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryGfJ9W5sBaE14cx17
+  • Content-Length: 5315245
+  • Script: /Aone trawas/process_booking_NEW.php
+
+✅ Booking ID Generated: B2512291506263
+
+
+=== PROCESSING IDENTITY FILE ===
+  Original name: villa32.jpg
+  New name: B2512291506263_IDENTITY_villa32.jpg
+  ✅ Saved locally: uploads/2025/12/B2512291506263_IDENTITY_villa32.jpg
+
+=== PROCESSING PAYMENT FILE ===
+  Original name: villa32.jpg
+  New name: B2512291506263_PAYMENT_villa32.jpg
+  ✅ Saved locally: uploads/2025/12/B2512291506263_PAYMENT_villa32.jpg
+
+============================================================
+📤 PREPARING DATA FOR GOOGLE SHEETS
+============================================================
+  • timestamp: "2025-12-29 09:06:55"
+  • booking_id: "B2512291506263"
+  • full_name: "a"
+  • phone: "08123456789"
+  • email: "seanhowengaming@gmail.com"
+  • checkin: "2026-01-03"
+  • checkout: "2026-01-04"
+  • villa_type: "tulip"
+  • identity_file: "B2512291506263_IDENTITY_villa32.jpg"
+  • payment_file: "B2512291506263_PAYMENT_villa32.jpg"
+  • special_request: "a"
+
+🔗 Google Sheets URL: https://script.google.com/macros/s/AKfycbyJ-94cKR67Lf88JhfW13pd6fAWdJmLlH_ZUaOc02_zm1BKbzmssTQ_zlW6gcFvnvVJjQ/exec
+
+
+============================================================
+🚀 ATTEMPTING TO SEND TO GOOGLE SHEETS
+============================================================
+📤 SENDING TO GOOGLE SHEETS...
+📦 Data size: 295 bytes
+📦 Data sample: timestamp=2025-12-29+09%3A06%3A55&booking_id=B2512291506263&full_name=a&phone=08123456789&email=seanhowengaming%40gmail.com&checkin=2026-01-03&checkout=2026-01-04&villa_type=tulip&identity_file=B25122
+📡 HTTP Response Code: 200
+📡 cURL Error: none
+📡 Response Length: 192 bytes
+📡 Response: {&quot;success&quot;:true,&quot;message&quot;:&quot;✅ Data saved to &#039;Bookings&#039; sheet!&quot;,&quot;villa_type_saved&quot;:&quot;tulip&quot;,&quot;row&quot;:9,&quot;booking_id&quot;:&quot;B2512291506263&quot;,&quot;sheet_name&quot;:&quot;Bookings&quot;,&quot;timestamp&quot;:&quot;2025-12-29T08:06:56.859Z&quot;}
+
+✅ GOOGLE SHEETS SUCCESS!
+   • Message: ✅ Data saved to 'Bookings' sheet!
+   • Row: 9
+
+============================================================
+☁️  UPLOADING TO GOOGLE DRIVE
+============================================================
+  • Identity file prepared: B2512291506263_IDENTITY_villa32.jpg (2656971 bytes)
+  • Payment file prepared: B2512291506263_PAYMENT_villa32.jpg (2656971 bytes)
+  • Drive HTTP Code: 200
+  ✅ Drive upload successful!
+
+============================================================
+🎉 PROCESS COMPLETED SUCCESSFULLY!
+============================================================
+  • Booking ID: B2512291506263
+  • Sheets Status: Success
+  • Files Uploaded: Yes
+
+
+------------------------------------------------------------
+
